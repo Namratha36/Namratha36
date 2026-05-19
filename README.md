@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 # Hey, I'm Namratha Jyoshika 👋
 
-B.Tech CSE student at NIAT (NxtWave) passionate about building projects, exploring AI, and learning through real-world experimentation.
+B.Tech CSE student at NIAT (NxtWave of Innovation in Advanced Technologies) passionate about building projects, exploring AI, and learning through real-world experimentation.
 
 Currently diving deeper into:
 
