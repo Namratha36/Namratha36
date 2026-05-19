@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hey, I'm Namratha 👋
+# Hey, I'm Namratha Jyoshika 👋
 
 B.Tech CSE student at NIAT (NxtWave) passionate about building projects, exploring AI, and learning through real-world experimentation.
 
