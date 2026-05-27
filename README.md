@@ -51,7 +51,7 @@ HTML • CSS • TailwindCSS • Bootstrap • Streamlit • n8n
 
 To keep learning, keep building, and slowly grow into a developer who creates meaningful tech that helps people.
 
-## 📊 GitHub Stats
+<!-- ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Namratha36&show_icons=true)
 
@@ -61,3 +61,4 @@ To keep learning, keep building, and slowly grow into a developer who creates me
 ![GitHub Streak](https://streak-stats.demolab.com?user=Namratha36)
 
 ![](https://komarev.com/ghpvc/?username=Namratha36)
+-->
