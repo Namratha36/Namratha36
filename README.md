@@ -28,7 +28,7 @@ Currently diving deeper into:
 
 ## Tech Stack
 
-Python • C++ • JavaScript • React • SQL • MongoDB
+Python • C++ • JavaScript • React • SQL • MongoDB •
 HTML • CSS • TailwindCSS • Bootstrap • Streamlit • n8n
 
 ## What I'm Building
